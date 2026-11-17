@@ -1,0 +1,13 @@
+# По одному домену на строку. Мониторинг только IPv4.
+chatgpt.com
+auth.openai.com
+api.openai.com
+cdn.oaistatic.com
+claude.ai
+claude.com
+platform.claude.com
+api.anthropic.com
+mcp-proxy.anthropic.com
+downloads.claude.ai
+assets.claude.ai
+s-cdn.anthropic.com
