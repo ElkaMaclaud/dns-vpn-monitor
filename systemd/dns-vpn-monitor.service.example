@@ -1,0 +1,7 @@
+[Unit]
+Description=Monitor DNS addresses and routes
+
+[Service]
+Type=oneshot
+# Замените оба пути на абсолютные; пути с пробелами заключите в двойные кавычки.
+ExecStart=/usr/bin/python3 /PATH/TO/PROJECT/monitor.py --data-dir /PATH/TO/PRIVATE-DATA
